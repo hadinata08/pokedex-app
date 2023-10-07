@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 MUST TO DO : 
-- Before running project, please using 'npm install --legacy-peer-deps' because developer useing node version and package library version deprecated 
+- Before running project, please using 'npm install --legacy-peer-deps' because developer using node version and package library version deprecated 
   
 First, run the development server:
 
