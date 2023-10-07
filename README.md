@@ -2,8 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-**MUST TO DO : 
-- Before running project, please using 'npm install --legacy-peer-deps'**
+MUST TO DO : 
+- Before running project, please using 'npm install --legacy-peer-deps'
+  
 First, run the development server:
 
 ```bash
